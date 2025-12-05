@@ -1,0 +1,1 @@
+echo "Bug : Mauvais affichage du message.\nSolution : Corrigé la syntaxe dans app.md."

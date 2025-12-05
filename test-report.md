@@ -1,0 +1,1 @@
+echo "Tests effectués :\n- Vérification du message d'accueil\n- Vérification de la correction du bug\nRésultat : OK" 
